@@ -23,8 +23,8 @@
     <text name="LoginFailed" value="Login failed!" />
     <text name="NameSurname" value="Name surname" />
     <text name="UserName" value="User name" />
-    <text name="Name" value="Name" />
-    <text name="Surname" value="Surname" />
+    <text name="Name" value="First name" />
+    <text name="Surname" value="Last name" />
     <text name="EmailAddress" value="Email address" />
     <text name="Tenants" value="Tenants" />
     <text name="SavedSuccessfully" value="Saved successfully" />

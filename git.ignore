@@ -272,4 +272,7 @@ __pycache__/
 # Cake - Uncomment if you are using it
 # tools/
 
+# additional ignore rules
+App_Data/
+
 # End of https://www.gitignore.io/api/aspnetcore

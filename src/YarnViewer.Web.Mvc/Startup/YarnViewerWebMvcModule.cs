@@ -21,6 +21,7 @@ namespace YarnViewer.Web.Startup
         public override void PreInitialize()
         {
             Configuration.Navigation.Providers.Add<YarnViewerNavigationProvider>();
+            Configuration.MultiTenancy.IsEnabled = false;
         }
 
         public override void Initialize()

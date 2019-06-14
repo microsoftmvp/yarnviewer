@@ -1,0 +1,313 @@
+DEBUG 2019-06-14 10:05:56,707 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2019-06-14 10:05:56,807 [1    ] Abp.Modules.AbpModuleManager             - Found 15 ABP modules in total.
+DEBUG 2019-06-14 10:05:56,839 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: YarnViewer.Web.Startup.YarnViewerWebMvcModule, YarnViewer.Web.Mvc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-06-14 10:05:56,847 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: YarnViewer.YarnViewerWebCoreModule, YarnViewer.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-06-14 10:05:56,848 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: YarnViewer.YarnViewerApplicationModule, YarnViewer.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-06-14 10:05:56,849 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: YarnViewer.YarnViewerCoreModule, YarnViewer.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-06-14 10:05:56,851 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-06-14 10:05:56,851 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-06-14 10:05:56,852 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-06-14 10:05:56,853 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-06-14 10:05:56,853 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: YarnViewer.EntityFrameworkCore.YarnViewerEntityFrameworkModule, YarnViewer.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-06-14 10:05:56,854 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-06-14 10:05:56,854 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-06-14 10:05:56,854 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-06-14 10:05:56,854 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-06-14 10:05:56,855 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-06-14 10:05:56,855 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-06-14 10:05:56,862 [1    ] Abp.Modules.AbpModuleManager             - 15 modules loaded.
+DEBUG 2019-06-14 10:05:56,962 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-06-14 10:05:56,962 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-06-14 10:05:56,962 [1    ] o.Configuration.LanguageManagementConfig - Converted YarnViewer (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-06-14 10:05:56,962 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-06-14 10:05:57,406 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: YarnViewer.EntityFrameworkCore.YarnViewerDbContext, YarnViewer.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-06-14 10:05:58,555 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2019-06-14 10:05:58,612 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2019-06-14 10:05:58,623 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2019-06-14 10:05:58,628 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: YarnViewer
+DEBUG 2019-06-14 10:05:58,633 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2019-06-14 10:05:58,864 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2019-06-14 10:05:58,940 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 12 classes define auto mapping attributes
+DEBUG 2019-06-14 10:05:58,940 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - YarnViewer.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2019-06-14 10:05:58,950 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - YarnViewer.Users.Dto.CreateUserDto
+DEBUG 2019-06-14 10:05:58,951 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - YarnViewer.Users.Dto.UserDto
+DEBUG 2019-06-14 10:05:58,951 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - YarnViewer.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2019-06-14 10:05:58,952 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - YarnViewer.Sessions.Dto.UserLoginInfoDto
+DEBUG 2019-06-14 10:05:58,952 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - YarnViewer.Roles.Dto.CreateRoleDto
+DEBUG 2019-06-14 10:05:58,952 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - YarnViewer.Roles.Dto.PermissionDto
+DEBUG 2019-06-14 10:05:58,952 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - YarnViewer.Roles.Dto.RoleDto
+DEBUG 2019-06-14 10:05:58,953 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - YarnViewer.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2019-06-14 10:05:58,953 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - YarnViewer.MultiTenancy.Dto.TenantDto
+DEBUG 2019-06-14 10:05:58,953 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - YarnViewer.Web.Views.Shared.Components.TenantChange.TenantChangeViewModel
+DEBUG 2019-06-14 10:05:58,954 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - YarnViewer.Web.Models.Roles.EditRoleModalViewModel
+INFO  2019-06-14 10:06:05,109 [13   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 DEBUG http://localhost:62114/  0
+INFO  2019-06-14 10:06:05,109 [14   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/  
+INFO  2019-06-14 10:06:05,218 [13   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 113.9269ms 200 
+INFO  2019-06-14 10:06:05,319 [14   ] tion.Cookies.CookieAuthenticationHandler - Identity.Application was not authenticated. Failure message: Unprotect ticket failed
+INFO  2019-06-14 10:06:10,431 [14   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "Index", controller = "Home", area = ""}. Executing action YarnViewer.Web.Controllers.HomeController.Index (YarnViewer.Web.Mvc)
+WARN  2019-06-14 10:06:10,908 [14   ] Mvc.Authorization.AbpAuthorizationFilter - Abp.Authorization.AbpAuthorizationException: Current user did not login to the application!
+   at Abp.Authorization.AuthorizationHelper.AuthorizeAsync(IEnumerable`1 authorizeAttributes) in D:\Github\aspnetboilerplate\src\Abp\Authorization\AuthorizationHelper.cs:line 42
+   at Abp.Authorization.AuthorizationHelper.CheckPermissions(MethodInfo methodInfo, Type type) in D:\Github\aspnetboilerplate\src\Abp\Authorization\AuthorizationHelper.cs:line 107
+   at Abp.Authorization.AuthorizationHelper.AuthorizeAsync(MethodInfo methodInfo, Type type) in D:\Github\aspnetboilerplate\src\Abp\Authorization\AuthorizationHelper.cs:line 56
+   at Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter.OnAuthorizationAsync(AuthorizationFilterContext context) in D:\Github\aspnetboilerplate\src\Abp.AspNetCore\AspNetCore\Mvc\Authorization\AbpAuthorizationFilter.cs:line 53
+Abp.Authorization.AbpAuthorizationException: Current user did not login to the application!
+   at Abp.Authorization.AuthorizationHelper.AuthorizeAsync(IEnumerable`1 authorizeAttributes) in D:\Github\aspnetboilerplate\src\Abp\Authorization\AuthorizationHelper.cs:line 42
+   at Abp.Authorization.AuthorizationHelper.CheckPermissions(MethodInfo methodInfo, Type type) in D:\Github\aspnetboilerplate\src\Abp\Authorization\AuthorizationHelper.cs:line 107
+   at Abp.Authorization.AuthorizationHelper.AuthorizeAsync(MethodInfo methodInfo, Type type) in D:\Github\aspnetboilerplate\src\Abp\Authorization\AuthorizationHelper.cs:line 56
+   at Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter.OnAuthorizationAsync(AuthorizationFilterContext context) in D:\Github\aspnetboilerplate\src\Abp.AspNetCore\AspNetCore\Mvc\Authorization\AbpAuthorizationFilter.cs:line 53
+INFO  2019-06-14 10:06:10,914 [14   ] ore.Mvc.Internal.ControllerActionInvoker - Authorization failed for the request at filter 'Abp.AspNetCore.Mvc.Authorization.AbpAuthorizationFilter'.
+INFO  2019-06-14 10:06:10,927 [14   ] Microsoft.AspNetCore.Mvc.ChallengeResult - Executing ChallengeResult with authentication schemes ().
+INFO  2019-06-14 10:06:10,956 [14   ] tion.Cookies.CookieAuthenticationHandler - AuthenticationScheme: Identity.Application was challenged.
+INFO  2019-06-14 10:06:10,963 [14   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action YarnViewer.Web.Controllers.HomeController.Index (YarnViewer.Web.Mvc) in 524.0308ms
+INFO  2019-06-14 10:06:10,984 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/Account/Login?ReturnUrl=%2F  
+INFO  2019-06-14 10:06:10,990 [14   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 5890.1126ms 302 
+INFO  2019-06-14 10:06:10,994 [10   ] tion.Cookies.CookieAuthenticationHandler - Identity.Application was not authenticated. Failure message: Unprotect ticket failed
+INFO  2019-06-14 10:06:11,030 [10   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "Login", controller = "Account", area = ""}. Executing action YarnViewer.Web.Controllers.AccountController.Login (YarnViewer.Web.Mvc)
+INFO  2019-06-14 10:06:14,892 [10   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method YarnViewer.Web.Controllers.AccountController.Login (YarnViewer.Web.Mvc) with arguments (, /, ) - Validation state: Valid
+INFO  2019-06-14 10:06:14,904 [10   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method YarnViewer.Web.Controllers.AccountController.Login (YarnViewer.Web.Mvc), returned result Microsoft.AspNetCore.Mvc.ViewResult in 6.9553ms.
+INFO  2019-06-14 10:06:15,174 [10   ] Core.Mvc.ViewFeatures.ViewResultExecutor - Executing ViewResult, running view Login.
+INFO  2019-06-14 10:06:16,350 [10   ] Core.Mvc.ViewFeatures.ViewResultExecutor - Executed ViewResult - view Login executed in 1231.7008ms.
+INFO  2019-06-14 10:06:16,360 [10   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action YarnViewer.Web.Controllers.AccountController.Login (YarnViewer.Web.Mvc) in 5327.437ms
+INFO  2019-06-14 10:06:16,380 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/fonts/material-icons/materialicons.css?v=2SsVsQpWRHM3EJ4D4MT4RRpiEXbEuK0vEjPxVr5P7Ek  
+INFO  2019-06-14 10:06:16,391 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/fonts/roboto/roboto.css?v=DWPiEyLnt8XZ68WQeudmZPGSejowhmQNUUhaX8dYF1Q  
+INFO  2019-06-14 10:06:16,396 [14   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/lib/bootstrap/dist/css/bootstrap.css?v=fmMNkMcjSw3xcp9iuPnku_ryk9kaWgrEbfJfKmdZ45o  
+INFO  2019-06-14 10:06:16,401 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/lib/toastr/toastr.css?v=W8a9WvLyUO7CXtOC4f9LoUMwkywM7JSq-Xm5kNsYW08  
+INFO  2019-06-14 10:06:16,410 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/lib/famfamfam-flags/dist/sprite/famfamfam-flags.css?v=l7wu43l7XpKWzFn29hiH8AFe4I_CNzbCPmaAQivPYMg  
+INFO  2019-06-14 10:06:16,416 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 5432.363ms 200 text/html; charset=utf-8
+INFO  2019-06-14 10:06:16,419 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/lib/font-awesome/css/font-awesome.css?v=NuCn4IvuZXdBaFKJOAcsU2Q3ZpwbdFisd5dux4jkQ5w  
+INFO  2019-06-14 10:06:16,464 [9    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/lib/toastr/toastr.css'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\lib\toastr\toastr.css'
+INFO  2019-06-14 10:06:16,472 [12   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/lib/famfamfam-flags/dist/sprite/famfamfam-flags.css'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\lib\famfamfam-flags\dist\sprite\famfamfam-flags.css'
+INFO  2019-06-14 10:06:16,474 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 69.2202ms 200 text/css
+INFO  2019-06-14 10:06:16,477 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 66.8647ms 200 text/css
+INFO  2019-06-14 10:06:16,480 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/css/materialize.css?v=OdWlipUYj8b9Oa4RyT45njteIcxH-4pGocqe0r0V8js  
+INFO  2019-06-14 10:06:16,482 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/lib/animate.css/animate.css?v=00w68NO3TLuHjKRHJmjrrgJBDtG_6OhbJEu1gtHcsuo  
+INFO  2019-06-14 10:06:16,490 [13   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/fonts/material-icons/materialicons.css'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\fonts\material-icons\materialicons.css'
+INFO  2019-06-14 10:06:16,493 [6    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/lib/bootstrap/dist/css/bootstrap.css'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\lib\bootstrap\dist\css\bootstrap.css'
+INFO  2019-06-14 10:06:16,495 [13   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 114.3868ms 200 text/css
+INFO  2019-06-14 10:06:16,502 [14   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/lib/font-awesome/css/font-awesome.css'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\lib\font-awesome\css\font-awesome.css'
+INFO  2019-06-14 10:06:16,506 [13   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/lib/Waves/dist/waves.css?v=0zP86LzXedNkkBjePtKrMTAPuIy6EzHfGlyYvsmGLBw  
+INFO  2019-06-14 10:06:16,509 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 105.2162ms 200 text/css
+INFO  2019-06-14 10:06:16,512 [7    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/css/materialize.css'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\css\materialize.css'
+INFO  2019-06-14 10:06:16,515 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/view-resources/Views/Account/Login.css?v=j_16MTiQNlUrKdjTrCjLCSGkIIjHvt8tFUyucW02Vqw  
+INFO  2019-06-14 10:06:16,520 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 37.8384ms 200 text/css
+INFO  2019-06-14 10:06:16,524 [9    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/lib/Waves/dist/waves.css'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\lib\Waves\dist\waves.css'
+INFO  2019-06-14 10:06:16,526 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/lib/json2/json2.js?v=EZJ68U7eUi8uSP0MRRUalYten2eOlhREE9kJOIbIeYg  
+INFO  2019-06-14 10:06:16,529 [12   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/lib/animate.css/animate.css'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\lib\animate.css\animate.css'
+INFO  2019-06-14 10:06:16,531 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 30.0963ms 200 text/css
+INFO  2019-06-14 10:06:16,534 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 51.6469ms 200 text/css
+INFO  2019-06-14 10:06:16,537 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/lib/jquery/dist/jquery.js?v=DZAnKJ_6XZ9si04Hgrsxu_8s717jcIzLy3oi35EouyE  
+INFO  2019-06-14 10:06:16,539 [9    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/view-resources/Views/Account/Login.css'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\view-resources\Views\Account\Login.css'
+INFO  2019-06-14 10:06:16,543 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/lib/bootstrap/dist/js/bootstrap.js?v=Cr6N6zNN4bp0OwTQOZ6Z66M2r-2dpy_EwKMCyZ-SOMg  
+INFO  2019-06-14 10:06:16,546 [14   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 87.4015ms 200 text/css
+INFO  2019-06-14 10:06:16,553 [9    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/lib/json2/json2.js'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\lib\json2\json2.js'
+INFO  2019-06-14 10:06:16,557 [13   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 32.5054ms 200 text/css
+INFO  2019-06-14 10:06:16,558 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 31.5009ms 200 application/javascript
+INFO  2019-06-14 10:06:16,562 [13   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/lib/moment/min/moment-with-locales.js?v=7CN4bWPV0U57HDA4YjdCBKCAynhqdWErjNn-5rrsW_I  
+INFO  2019-06-14 10:06:16,566 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/lib/jquery-validation/dist/jquery.validate.js?v=KuzD50lDGNI5jq_ipt4hwDpSJk3fhseTR1jdvaBoZLs  
+INFO  2019-06-14 10:06:16,569 [14   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/view-resources/Views/Account/_Layout.css?v=vIEtxnpR3ZrYbYcueRr_mJ9XuJJzDprh4sMCwvRBcqk  
+INFO  2019-06-14 10:06:16,573 [17   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/fonts/roboto/roboto.css'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\fonts\roboto\roboto.css'
+INFO  2019-06-14 10:06:16,577 [11   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/lib/bootstrap/dist/js/bootstrap.js'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\lib\bootstrap\dist\js\bootstrap.js'
+INFO  2019-06-14 10:06:16,582 [17   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 198.3856ms 200 text/css
+INFO  2019-06-14 10:06:16,585 [6    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/lib/jquery-validation/dist/jquery.validate.js'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\lib\jquery-validation\dist\jquery.validate.js'
+INFO  2019-06-14 10:06:16,590 [10   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/view-resources/Views/Account/_Layout.css'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\view-resources\Views\Account\_Layout.css'
+INFO  2019-06-14 10:06:16,594 [11   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/lib/jquery/dist/jquery.js'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\lib\jquery\dist\jquery.js'
+INFO  2019-06-14 10:06:16,597 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 31.9023ms 200 application/javascript
+INFO  2019-06-14 10:06:16,600 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 47.4149ms 200 text/css
+INFO  2019-06-14 10:06:16,602 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/lib/toastr/toastr.js?v=C7DJ6LzTt1Hvj9fd-yRnySs3I4T2B8XmQ3TqXQjc00g  
+INFO  2019-06-14 10:06:16,605 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/lib/sweetalert/dist/sweetalert.min.js?v=aPktydUv1rN3mouQeXoKi3ioFTIQlULuqYeoTAA2ihY  
+INFO  2019-06-14 10:06:16,608 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 62.8821ms 200 application/javascript
+INFO  2019-06-14 10:06:16,611 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 48.1362ms 200 application/javascript
+INFO  2019-06-14 10:06:16,614 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/lib/spin.js/spin.js?v=GySbz3oZXNlwoawo5PpYy0iM38B-q3jyi_HLw00uxy0  
+INFO  2019-06-14 10:06:16,619 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/lib/blockUI/jquery.blockUI.js?v=oQaw-JJuUcJQ9QVYMcFnPxICDT-hv8-kuxT2FNzTGhc  
+INFO  2019-06-14 10:06:16,622 [14   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/lib/sweetalert/dist/sweetalert.min.js'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\lib\sweetalert\dist\sweetalert.min.js'
+INFO  2019-06-14 10:06:16,625 [17   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/css/style.css?v=151KUrNx-cFGpjXC7QZ8WbWSo-mQTLO0htvGyBUR_i8  
+INFO  2019-06-14 10:06:16,633 [7    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/lib/toastr/toastr.js'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\lib\toastr\toastr.js'
+INFO  2019-06-14 10:06:16,635 [6    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/lib/moment/min/moment-with-locales.js'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\lib\moment\min\moment-with-locales.js'
+INFO  2019-06-14 10:06:16,639 [10   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/lib/blockUI/jquery.blockUI.js'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\lib\blockUI\jquery.blockUI.js'
+INFO  2019-06-14 10:06:16,642 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 34.9506ms 200 application/javascript
+INFO  2019-06-14 10:06:16,645 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 79.7936ms 200 application/javascript
+INFO  2019-06-14 10:06:16,648 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/lib/spin.js/jquery.spin.js?v=EG38bUU5b2M64hy9cNAzu_cQBEsiBYsDifOcoHqNd2k  
+INFO  2019-06-14 10:06:16,651 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/lib/abp-web-resources/Abp/Framework/scripts/libs/abp.toastr.js?v=ImopdkB8alCil1HigOwW3CDqWKsLZXyplf7TXBbjRnE  
+INFO  2019-06-14 10:06:16,655 [9    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/lib/spin.js/spin.js'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\lib\spin.js\spin.js'
+INFO  2019-06-14 10:06:16,661 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 28.9079ms 200 application/javascript
+INFO  2019-06-14 10:06:16,663 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 47.6044ms 200 application/javascript
+INFO  2019-06-14 10:06:16,666 [11   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/css/style.css'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\css\style.css'
+INFO  2019-06-14 10:06:16,670 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/lib/abp-web-resources/Abp/Framework/scripts/libs/abp.jquery.js?v=lMgLZMlGsipWDxpvEPxfKVREzRedV_ygRnTj2kvADpw  
+INFO  2019-06-14 10:06:16,673 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 84.3624ms 200 text/css
+INFO  2019-06-14 10:06:16,676 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/lib/abp-web-resources/Abp/Framework/scripts/abp.js?v=FGfi3RfHf06ftjVdq2JaO16cF9CPZNPvujmuYBacXxg  
+INFO  2019-06-14 10:06:16,680 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/lib/abp-web-resources/Abp/Framework/scripts/libs/abp.blockUI.js?v=Y3zoG-hSFKmbS3BHKo_wFWRPbyzJXKoNrnF73uFdtqU  
+INFO  2019-06-14 10:06:16,688 [13   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 30.9149ms 200 application/javascript
+INFO  2019-06-14 10:06:16,690 [10   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/lib/abp-web-resources/Abp/Framework/scripts/libs/abp.toastr.js'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\lib\abp-web-resources\Abp\Framework\scripts\libs\abp.toastr.js'
+INFO  2019-06-14 10:06:16,695 [9    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/lib/abp-web-resources/Abp/Framework/scripts/libs/abp.jquery.js'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\lib\abp-web-resources\Abp\Framework\scripts\libs\abp.jquery.js'
+INFO  2019-06-14 10:06:16,698 [11   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/lib/abp-web-resources/Abp/Framework/scripts/libs/abp.blockUI.js'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\lib\abp-web-resources\Abp\Framework\scripts\libs\abp.blockUI.js'
+INFO  2019-06-14 10:06:16,702 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 30.6729ms 200 application/javascript
+INFO  2019-06-14 10:06:16,706 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 51.2102ms 200 application/javascript
+INFO  2019-06-14 10:06:16,709 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 24.6626ms 200 application/javascript
+INFO  2019-06-14 10:06:16,712 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/lib/abp-web-resources/Abp/Framework/scripts/libs/abp.sweet-alert.js?v=guLvtVJMvLobKpGAlQigrGWMQ1sGQo4yTL46zjGQUUY  
+INFO  2019-06-14 10:06:16,715 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/js/admin.js?v=_sUixSUZcmP81slFpHh9ygZ5nNihdHlHLkpoSCncHCw  
+INFO  2019-06-14 10:06:16,717 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/AbpServiceProxies/GetAll?v=636961035588665886  
+INFO  2019-06-14 10:06:16,722 [13   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/lib/Waves/dist/waves.js?v=Lar7zQhqgdoUsaqhuwkgnWgsC-eRWIxHhJPV-QtrDog  
+INFO  2019-06-14 10:06:16,725 [14   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/lib/spin.js/jquery.spin.js'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\lib\spin.js\jquery.spin.js'
+INFO  2019-06-14 10:06:16,732 [17   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/lib/abp-web-resources/Abp/Framework/scripts/abp.js'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\lib\abp-web-resources\Abp\Framework\scripts\abp.js'
+INFO  2019-06-14 10:06:16,737 [14   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 82.9566ms 200 application/javascript
+INFO  2019-06-14 10:06:16,743 [6    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/lib/Waves/dist/waves.js'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\lib\Waves\dist\waves.js'
+INFO  2019-06-14 10:06:16,745 [10   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/lib/abp-web-resources/Abp/Framework/scripts/libs/abp.sweet-alert.js'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\lib\abp-web-resources\Abp\Framework\scripts\libs\abp.sweet-alert.js'
+INFO  2019-06-14 10:06:16,748 [11   ] tion.Cookies.CookieAuthenticationHandler - Identity.Application was not authenticated. Failure message: Unprotect ticket failed
+INFO  2019-06-14 10:06:16,751 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 55.6344ms 200 application/javascript
+INFO  2019-06-14 10:06:16,754 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 39.2611ms 200 application/javascript
+INFO  2019-06-14 10:06:16,756 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/view-resources/Views/Account/Login.js?v=o2PUQBkwW7VjtzD5RNxKPa3oShr3fMFHds_2dwIAV5M  
+INFO  2019-06-14 10:06:16,760 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/AbpScripts/GetScripts?v=636961035588665886  
+INFO  2019-06-14 10:06:16,764 [12   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/js/admin.js'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\js\admin.js'
+INFO  2019-06-14 10:06:16,772 [14   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/lib/abp-web-resources/Abp/Framework/scripts/libs/abp.spin.js?v=RJuGDX616JN_UziXsmKnth0alpECKCx0gtxKZVrZWxY  
+INFO  2019-06-14 10:06:16,776 [10   ] tion.Cookies.CookieAuthenticationHandler - Identity.Application was not authenticated. Failure message: Unprotect ticket failed
+INFO  2019-06-14 10:06:16,779 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 60.203ms 200 application/javascript
+INFO  2019-06-14 10:06:16,783 [13   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/view-resources/Views/Account/Login.js'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\view-resources\Views\Account\Login.js'
+INFO  2019-06-14 10:06:16,787 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/view-resources/Views/Shared/Components/TenantChange/Default.js?v=636961035763263014  
+INFO  2019-06-14 10:06:16,791 [9    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/lib/abp-web-resources/Abp/Framework/scripts/libs/abp.spin.js'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\lib\abp-web-resources\Abp\Framework\scripts\libs\abp.spin.js'
+INFO  2019-06-14 10:06:16,795 [13   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 32.8602ms 200 application/javascript
+INFO  2019-06-14 10:06:16,799 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 52.75ms 200 application/javascript
+INFO  2019-06-14 10:06:16,805 [13   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/fonts/roboto/CWB0XYA8bzo0kSThX0UTuA.woff2  
+INFO  2019-06-14 10:06:16,809 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/fonts/roboto/d-6IYplOFocCacKzxwXSOFtXRa8TVwTICgirnJhmVJw.woff2  
+INFO  2019-06-14 10:06:16,813 [6    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/view-resources/Views/Shared/Components/TenantChange/Default.js'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\view-resources\Views\Shared\Components\TenantChange\Default.js'
+INFO  2019-06-14 10:06:16,816 [17   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 72.4085ms 200 application/javascript
+INFO  2019-06-14 10:06:16,821 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 34.2047ms 200 application/javascript
+INFO  2019-06-14 10:06:16,825 [17   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/js/main.js?v=4vKqnH7NDEicGauSItGkdFGmSMMbnDy25FJI2g5KyFY  
+INFO  2019-06-14 10:06:16,829 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/fonts/material-icons/materialicons.woff2  
+INFO  2019-06-14 10:06:16,833 [14   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/fonts/roboto/CWB0XYA8bzo0kSThX0UTuA.woff2'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\fonts\roboto\CWB0XYA8bzo0kSThX0UTuA.woff2'
+INFO  2019-06-14 10:06:16,840 [6    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/js/main.js'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\js\main.js'
+INFO  2019-06-14 10:06:16,843 [14   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 39.5589ms 200 font/woff2
+INFO  2019-06-14 10:06:16,847 [13   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/fonts/roboto/d-6IYplOFocCacKzxwXSOFtXRa8TVwTICgirnJhmVJw.woff2'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\fonts\roboto\d-6IYplOFocCacKzxwXSOFtXRa8TVwTICgirnJhmVJw.woff2'
+INFO  2019-06-14 10:06:16,851 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 25.9148ms 200 application/javascript
+INFO  2019-06-14 10:06:16,855 [13   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 49.2305ms 200 font/woff2
+INFO  2019-06-14 10:06:16,859 [14   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/lib/famfamfam-flags/dist/sprite/famfamfam-flags.png  
+INFO  2019-06-14 10:06:16,863 [17   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/fonts/material-icons/materialicons.woff2'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\fonts\material-icons\materialicons.woff2'
+INFO  2019-06-14 10:06:16,867 [17   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 40.1447ms 200 font/woff2
+INFO  2019-06-14 10:06:16,873 [17   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/lib/famfamfam-flags/dist/sprite/famfamfam-flags.png'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\lib\famfamfam-flags\dist\sprite\famfamfam-flags.png'
+INFO  2019-06-14 10:06:16,879 [10   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "GetScripts", controller = "AbpScripts", area = ""}. Executing action Abp.AspNetCore.Mvc.Controllers.AbpScriptsController.GetScripts (Abp.AspNetCore)
+INFO  2019-06-14 10:06:16,884 [17   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 30.0228ms 200 image/png
+INFO  2019-06-14 10:06:16,889 [11   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "GetAll", controller = "AbpServiceProxies", area = ""}. Executing action Abp.AspNetCore.Mvc.Proxying.AbpServiceProxiesController.GetAll (Abp.AspNetCore)
+INFO  2019-06-14 10:06:16,896 [10   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method Abp.AspNetCore.Mvc.Controllers.AbpScriptsController.GetScripts (Abp.AspNetCore) with arguments (, False) - Validation state: Valid
+INFO  2019-06-14 10:06:16,939 [11   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method Abp.AspNetCore.Mvc.Proxying.AbpServiceProxiesController.GetAll (Abp.AspNetCore) with arguments (Abp.AspNetCore.Mvc.Proxying.ApiProxyGenerationModel) - Validation state: Valid
+INFO  2019-06-14 10:06:17,083 [10   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method Abp.AspNetCore.Mvc.Controllers.AbpScriptsController.GetScripts (Abp.AspNetCore), returned result Microsoft.AspNetCore.Mvc.ContentResult in 182.9627ms.
+INFO  2019-06-14 10:06:17,095 [10   ] Mvc.Infrastructure.ContentResultExecutor - Executing ContentResult with HTTP Response ContentType of application/x-javascript; charset=utf-8
+INFO  2019-06-14 10:06:17,103 [10   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action Abp.AspNetCore.Mvc.Controllers.AbpScriptsController.GetScripts (Abp.AspNetCore) in 217.7725ms
+INFO  2019-06-14 10:06:17,107 [11   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method Abp.AspNetCore.Mvc.Proxying.AbpServiceProxiesController.GetAll (Abp.AspNetCore), returned result Microsoft.AspNetCore.Mvc.ContentResult in 162.4315ms.
+INFO  2019-06-14 10:06:17,111 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 352.2925ms 200 application/x-javascript; charset=utf-8
+INFO  2019-06-14 10:06:17,114 [11   ] Mvc.Infrastructure.ContentResultExecutor - Executing ContentResult with HTTP Response ContentType of application/x-javascript
+INFO  2019-06-14 10:06:17,121 [11   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action Abp.AspNetCore.Mvc.Proxying.AbpServiceProxiesController.GetAll (Abp.AspNetCore) in 225.9431ms
+INFO  2019-06-14 10:06:17,125 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 411.1046ms 200 application/x-javascript
+INFO  2019-06-14 10:06:17,165 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/favicon.ico  
+INFO  2019-06-14 10:06:17,177 [11   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/favicon.ico'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\favicon.ico'
+INFO  2019-06-14 10:06:17,181 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 16.0068ms 200 image/x-icon
+INFO  2019-06-14 10:06:24,185 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:62114/Account/Login application/x-www-form-urlencoded 256
+INFO  2019-06-14 10:06:24,190 [12   ] tion.Cookies.CookieAuthenticationHandler - Identity.Application was not authenticated. Failure message: Unprotect ticket failed
+INFO  2019-06-14 10:06:24,205 [12   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "Login", controller = "Account", area = ""}. Executing action YarnViewer.Web.Controllers.AccountController.Login (YarnViewer.Web.Mvc)
+INFO  2019-06-14 10:06:24,309 [12   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method YarnViewer.Web.Controllers.AccountController.Login (YarnViewer.Web.Mvc) with arguments (YarnViewer.Web.Models.Account.LoginViewModel, /, ) - Validation state: Valid
+INFO  2019-06-14 10:06:25,013 [10   ] tion.Cookies.CookieAuthenticationHandler - AuthenticationScheme: Identity.Application signed in.
+INFO  2019-06-14 10:06:25,020 [10   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method YarnViewer.Web.Controllers.AccountController.Login (YarnViewer.Web.Mvc), returned result Microsoft.AspNetCore.Mvc.JsonResult in 708.3049ms.
+INFO  2019-06-14 10:06:25,037 [10   ] matters.Json.Internal.JsonResultExecutor - Executing JsonResult, writing value of type 'Abp.Web.Models.AjaxResponse'.
+INFO  2019-06-14 10:06:25,048 [10   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action YarnViewer.Web.Controllers.AccountController.Login (YarnViewer.Web.Mvc) in 839.8136ms
+INFO  2019-06-14 10:06:25,053 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 865.7967ms 200 application/json; charset=utf-8
+INFO  2019-06-14 10:06:25,065 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/  
+INFO  2019-06-14 10:06:25,135 [11   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "Index", controller = "Home", area = ""}. Executing action YarnViewer.Web.Controllers.HomeController.Index (YarnViewer.Web.Mvc)
+INFO  2019-06-14 10:06:25,176 [11   ] uthorization.DefaultAuthorizationService - Authorization was successful.
+INFO  2019-06-14 10:06:25,182 [11   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method YarnViewer.Web.Controllers.HomeController.Index (YarnViewer.Web.Mvc) - Validation state: Valid
+INFO  2019-06-14 10:06:25,186 [11   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method YarnViewer.Web.Controllers.HomeController.Index (YarnViewer.Web.Mvc), returned result Microsoft.AspNetCore.Mvc.ViewResult in 0.492ms.
+INFO  2019-06-14 10:06:25,201 [9    ] Core.Mvc.ViewFeatures.ViewResultExecutor - Executing ViewResult, running view Index.
+INFO  2019-06-14 10:06:26,069 [11   ] Core.Mvc.ViewFeatures.ViewResultExecutor - Executed ViewResult - view Index executed in 870.2251ms.
+INFO  2019-06-14 10:06:26,082 [11   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action YarnViewer.Web.Controllers.HomeController.Index (YarnViewer.Web.Mvc) in 940.6839ms
+INFO  2019-06-14 10:06:26,088 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/lib/bootstrap-select/dist/css/bootstrap-select.css?v=a7N4Jki3LzSbThclvqbu4nF45twcjuc772JGFhY9qwk  
+INFO  2019-06-14 10:06:26,095 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 1025.7875ms 200 text/html; charset=utf-8
+INFO  2019-06-14 10:06:26,101 [13   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/lib/morris.js/morris.css?v=szHusaozbQctTn4FX-3l5E0A5zoxz7-ne4fr8NgWJlw  
+INFO  2019-06-14 10:06:26,105 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/view-resources/Views/Shared/_Layout.css?v=uq7unI_U0xZr0Pbyzeu6KfbJKHVFuv0wNJ4CrrhQknw  
+INFO  2019-06-14 10:06:26,110 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/lib/bootstrap-select/dist/js/bootstrap-select.js?v=_KDPX2Vvqq8sySMxlLNJxt9j6Cmb8i_xp602ozhYxzI  
+INFO  2019-06-14 10:06:26,114 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/images/user.png  
+INFO  2019-06-14 10:06:26,121 [14   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/css/themes/all-themes.css?v=XaAlkmhL9gA6mBxpcxGYAWxggxkIpRmT9qGbKejs6eA  
+INFO  2019-06-14 10:06:26,124 [12   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/view-resources/Views/Shared/_Layout.css'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\view-resources\Views\Shared\_Layout.css'
+INFO  2019-06-14 10:06:26,129 [17   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/lib/bootstrap-select/dist/css/bootstrap-select.css'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\lib\bootstrap-select\dist\css\bootstrap-select.css'
+INFO  2019-06-14 10:06:26,133 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 30.512ms 200 text/css
+INFO  2019-06-14 10:06:26,138 [10   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/lib/morris.js/morris.css'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\lib\morris.js\morris.css'
+INFO  2019-06-14 10:06:26,144 [6    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/images/user.png'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\images\user.png'
+INFO  2019-06-14 10:06:26,158 [7    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/lib/bootstrap-select/dist/js/bootstrap-select.js'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\lib\bootstrap-select\dist\js\bootstrap-select.js'
+INFO  2019-06-14 10:06:26,165 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 48.9404ms 200 image/png
+INFO  2019-06-14 10:06:26,168 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 60.2222ms 200 application/javascript
+INFO  2019-06-14 10:06:26,171 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/view-resources/Views/Shared/_Layout.js?v=jOYc7_5N1zFKt3qTihQ-9Kc0wjSMXkAeHUXNyvn8sYo  
+INFO  2019-06-14 10:06:26,174 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/AbpScripts/GetScripts?v=636961035588665886  
+INFO  2019-06-14 10:06:26,177 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 46.5367ms 200 text/css
+INFO  2019-06-14 10:06:26,182 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/lib/push.js/push.js?v=HDxbpm8oBKwe1bmX9Z1SahYYA7zEbc1dk7LfopvOvoE  
+INFO  2019-06-14 10:06:26,185 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/lib/signalr-client/signalr.min.js?v=DeOex_tR7FzkV208FN2wnFJvIUIKXWsVjbW0171naJo  
+INFO  2019-06-14 10:06:26,188 [12   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/css/themes/all-themes.css'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\css\themes\all-themes.css'
+INFO  2019-06-14 10:06:26,192 [17   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 50.4849ms 200 text/css
+INFO  2019-06-14 10:06:26,196 [9    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/view-resources/Views/Shared/_Layout.js'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\view-resources\Views\Shared\_Layout.js'
+INFO  2019-06-14 10:06:26,208 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 94.0384ms 200 text/css
+INFO  2019-06-14 10:06:26,211 [17   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/lib/jquery-slimscroll/jquery.slimscroll.js?v=4K6ZHzwMYR5_eU2SeDIaByus_qki9IFY8hmxl5U6D1Y  
+INFO  2019-06-14 10:06:26,214 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/AbpServiceProxies/GetAll?v=636961035588665886  
+INFO  2019-06-14 10:06:26,219 [13   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/lib/push.js/push.js'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\lib\push.js\push.js'
+INFO  2019-06-14 10:06:26,225 [9    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/lib/signalr-client/signalr.min.js'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\lib\signalr-client\signalr.min.js'
+INFO  2019-06-14 10:06:26,229 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 55.6616ms 200 application/javascript
+INFO  2019-06-14 10:06:26,232 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 48.6309ms 200 application/javascript
+INFO  2019-06-14 10:06:26,235 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/lib/abp-web-resources/Abp/Framework/scripts/libs/abp.signalr-client.js?v=8bQpuR0dFdbi0KIM9VVSonDAxoXNRsdDAvuSZSI8Oyw  
+INFO  2019-06-14 10:06:26,238 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/lib/raphael/raphael.js?v=MPXjTSEImVJI1834JAHubdK7Lts1VTUPJmCQ9zKAjyA  
+INFO  2019-06-14 10:06:26,242 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 59.0841ms 200 application/javascript
+INFO  2019-06-14 10:06:26,251 [14   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/lib/jquery-slimscroll/jquery.slimscroll.js'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\lib\jquery-slimscroll\jquery.slimscroll.js'
+INFO  2019-06-14 10:06:26,256 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/lib/jquery-countTo/jquery.countTo.js?v=AGGYFLOyVnIKn_2UCDl9D_5VWf8wHWCOtm9YU0P9g6I  
+INFO  2019-06-14 10:06:26,261 [14   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 59.0067ms 200 application/javascript
+INFO  2019-06-14 10:06:26,266 [14   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/lib/morris.js/morris.js?v=cQB75DEaDbn4oSiaWgdoh3TuZCHSO-kYdD_Ehka48Ro  
+INFO  2019-06-14 10:06:26,272 [13   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/lib/abp-web-resources/Abp/Framework/scripts/libs/abp.signalr-client.js'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\lib\abp-web-resources\Abp\Framework\scripts\libs\abp.signalr-client.js'
+INFO  2019-06-14 10:06:26,277 [6    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/lib/jquery-countTo/jquery.countTo.js'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\lib\jquery-countTo\jquery.countTo.js'
+INFO  2019-06-14 10:06:26,281 [12   ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "GetAll", controller = "AbpServiceProxies", area = ""}. Executing action Abp.AspNetCore.Mvc.Proxying.AbpServiceProxiesController.GetAll (Abp.AspNetCore)
+INFO  2019-06-14 10:06:26,285 [9    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/lib/raphael/raphael.js'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\lib\raphael\raphael.js'
+INFO  2019-06-14 10:06:26,293 [13   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 43.9086ms 200 application/javascript
+INFO  2019-06-14 10:06:26,297 [7    ] ore.Mvc.Internal.ControllerActionInvoker - Route matched with {action = "GetScripts", controller = "AbpScripts", area = ""}. Executing action Abp.AspNetCore.Mvc.Controllers.AbpScriptsController.GetScripts (Abp.AspNetCore)
+INFO  2019-06-14 10:06:26,302 [10   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/lib/morris.js/morris.js'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\lib\morris.js\morris.js'
+INFO  2019-06-14 10:06:26,306 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 55.0785ms 200 application/javascript
+INFO  2019-06-14 10:06:26,312 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 44.2013ms 200 application/javascript
+INFO  2019-06-14 10:06:26,314 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 45.4733ms 200 application/javascript
+INFO  2019-06-14 10:06:26,317 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/lib/Flot/jquery.flot.js?v=t7kx8nPDixJ3ucbB9OBcTsCYhaSHvdrzJ54tfkmjjhI  
+INFO  2019-06-14 10:06:26,321 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/lib/Flot/jquery.flot.resize.js?v=i59RRvMkqw-28mDu6YRzKo77gmM7k9aPZMtcw45wgu4  
+INFO  2019-06-14 10:06:26,325 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/lib/chart.js/dist/Chart.bundle.js?v=TQAtDUIU_0XtXZLNjMBV8noK8jNSngwHlgtC_PvsRAk  
+INFO  2019-06-14 10:06:26,329 [12   ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method Abp.AspNetCore.Mvc.Proxying.AbpServiceProxiesController.GetAll (Abp.AspNetCore) with arguments (Abp.AspNetCore.Mvc.Proxying.ApiProxyGenerationModel) - Validation state: Valid
+INFO  2019-06-14 10:06:26,336 [7    ] ore.Mvc.Internal.ControllerActionInvoker - Executing action method Abp.AspNetCore.Mvc.Controllers.AbpScriptsController.GetScripts (Abp.AspNetCore) with arguments (, False) - Validation state: Valid
+INFO  2019-06-14 10:06:26,345 [13   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/images/user-img-background.jpg  
+INFO  2019-06-14 10:06:26,348 [6    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/lib/Flot/jquery.flot.resize.js'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\lib\Flot\jquery.flot.resize.js'
+INFO  2019-06-14 10:06:26,353 [9    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/lib/Flot/jquery.flot.js'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\lib\Flot\jquery.flot.js'
+INFO  2019-06-14 10:06:26,356 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 34.5482ms 200 application/javascript
+INFO  2019-06-14 10:06:26,360 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 47.8017ms 200 application/javascript
+INFO  2019-06-14 10:06:26,365 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/lib/font-awesome/fonts/fontawesome-webfont.woff2?v=4.7.0  
+INFO  2019-06-14 10:06:26,367 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/lib/Flot/jquery.flot.pie.js?v=RsEWYd9gdLG1bCIcU8j59Rkvf_1O7HtzoD1TRUs22cU  
+INFO  2019-06-14 10:06:26,372 [14   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/images/user-img-background.jpg'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\images\user-img-background.jpg'
+INFO  2019-06-14 10:06:26,376 [11   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/lib/chart.js/dist/Chart.bundle.js'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\lib\chart.js\dist\Chart.bundle.js'
+INFO  2019-06-14 10:06:26,380 [9    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/lib/Flot/jquery.flot.pie.js'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\lib\Flot\jquery.flot.pie.js'
+INFO  2019-06-14 10:06:26,385 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 65.9585ms 200 application/javascript
+INFO  2019-06-14 10:06:26,389 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 20.5848ms 200 application/javascript
+INFO  2019-06-14 10:06:26,394 [11   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/lib/Flot/jquery.flot.time.js?v=pYLIMq3HE4prBar2HxbrrCdHAfG-Sv6nfnOaHDS5xBo  
+INFO  2019-06-14 10:06:26,397 [12   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method Abp.AspNetCore.Mvc.Proxying.AbpServiceProxiesController.GetAll (Abp.AspNetCore), returned result Microsoft.AspNetCore.Mvc.ContentResult in 36.9862ms.
+INFO  2019-06-14 10:06:26,400 [10   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/lib/font-awesome/fonts/fontawesome-webfont.woff2'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\lib\font-awesome\fonts\fontawesome-webfont.woff2'
+INFO  2019-06-14 10:06:26,403 [12   ] Mvc.Infrastructure.ContentResultExecutor - Executing ContentResult with HTTP Response ContentType of application/x-javascript
+INFO  2019-06-14 10:06:26,408 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 43.2781ms 200 font/woff2
+INFO  2019-06-14 10:06:26,412 [12   ] ore.Mvc.Internal.ControllerActionInvoker - Executed action Abp.AspNetCore.Mvc.Proxying.AbpServiceProxiesController.GetAll (Abp.AspNetCore) in 121.5289ms
+INFO  2019-06-14 10:06:26,416 [10   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/view-resources/Views/Home/Index.js?v=tRGDdqeVjO63iaO1qvGPpKF2NuT2riEOyYovlY_otk0  
+INFO  2019-06-14 10:06:26,419 [9    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/lib/Flot/jquery.flot.time.js'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\lib\Flot\jquery.flot.time.js'
+INFO  2019-06-14 10:06:26,422 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 204.9373ms 200 application/x-javascript
+INFO  2019-06-14 10:06:26,426 [13   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 79.5705ms 200 image/jpeg
+INFO  2019-06-14 10:06:26,430 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 36.6873ms 200 application/javascript
+INFO  2019-06-14 10:06:26,433 [13   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/lib/Flot/jquery.flot.categories.js?v=boFmSyjqeVxzSQb0qhVhRkCnWsf705mn-5CEBAaYNRo  
+INFO  2019-06-14 10:06:26,436 [14   ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/lib/jquery-sparkline/dist/jquery.sparkline.js?v=k0LZZpXY4vJp6vbA5CL5bb20Ou0IO3Shz-J6U6Vq56c  
+INFO  2019-06-14 10:06:26,440 [9    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/view-resources/Views/Home/Index.js'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\view-resources\Views\Home\Index.js'
+INFO  2019-06-14 10:06:26,447 [6    ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/lib/Flot/jquery.flot.categories.js'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\lib\Flot\jquery.flot.categories.js'
+INFO  2019-06-14 10:06:26,454 [9    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 37.4445ms 200 application/javascript
+INFO  2019-06-14 10:06:26,457 [6    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 22.4477ms 200 application/javascript
+INFO  2019-06-14 10:06:26,461 [12   ] NetCore.StaticFiles.StaticFileMiddleware - Sending file. Request path: '/lib/jquery-sparkline/dist/jquery.sparkline.js'. Physical path: 'C:\Users\Carlos Pc\Dropbox\YarnViewer\Source\src\YarnViewer.Web.Mvc\wwwroot\lib\jquery-sparkline\dist\jquery.sparkline.js'
+INFO  2019-06-14 10:06:26,466 [12   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 71.1005ms 200 application/javascript
+INFO  2019-06-14 10:06:26,494 [7    ] ore.Mvc.Internal.ControllerActionInvoker - Executed action method Abp.AspNetCore.Mvc.Controllers.AbpScriptsController.GetScripts (Abp.AspNetCore), returned result Microsoft.AspNetCore.Mvc.ContentResult in 154.6531ms.
+INFO  2019-06-14 10:06:26,497 [7    ] Mvc.Infrastructure.ContentResultExecutor - Executing ContentResult with HTTP Response ContentType of application/x-javascript; charset=utf-8
+INFO  2019-06-14 10:06:26,502 [7    ] ore.Mvc.Internal.ControllerActionInvoker - Executed action Abp.AspNetCore.Mvc.Controllers.AbpScriptsController.GetScripts (Abp.AspNetCore) in 200.6293ms
+INFO  2019-06-14 10:06:26,506 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 332.8216ms 200 application/x-javascript; charset=utf-8
+INFO  2019-06-14 10:06:26,524 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 POST http://localhost:62114/signalr/negotiate text/plain;charset=UTF-8 0
+INFO  2019-06-14 10:06:26,586 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 60.5816ms 200 application/json
+INFO  2019-06-14 10:06:26,593 [7    ] soft.AspNetCore.Hosting.Internal.WebHost - Request starting HTTP/1.1 GET http://localhost:62114/signalr?id=wlL_LnAQSPDT-RywiMCk4Q  
+INFO  2019-06-14 10:06:26,801 [10   ] .AspNetCore.SignalR.HubConnectionContext - Completed connection handshake. Using HubProtocol 'json'.
+DEBUG 2019-06-14 10:06:26,836 [10   ] Abp.AspNetCore.SignalR.Hubs.AbpCommonHub - A client is connected: {"ConnectionId":"wlL_LnAQSPDT-RywiMCk4Q","IpAddress":"::1","TenantId":null,"UserId":1,"ConnectTime":"2019-06-14T10:06:26.82571-04:00","Properties":{}}
+DEBUG 2019-06-14 10:06:26,889 [10   ] Abp.AspNetCore.SignalR.Hubs.AbpCommonHub - A client is registered: wlL_LnAQSPDT-RywiMCk4Q
+DEBUG 2019-06-14 10:06:57,579 [7    ] Abp.AspNetCore.SignalR.Hubs.AbpCommonHub - A client is disconnected: wlL_LnAQSPDT-RywiMCk4Q
+INFO  2019-06-14 10:06:57,598 [22   ] soft.AspNetCore.Hosting.Internal.WebHost - Request finished in 31008.028ms 101 

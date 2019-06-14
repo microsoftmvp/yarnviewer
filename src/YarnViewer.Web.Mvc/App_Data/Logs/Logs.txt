@@ -1,0 +1,42 @@
+DEBUG 2019-06-14 15:53:20,357 [1    ] Abp.Modules.AbpModuleManager             - Loading Abp modules...
+DEBUG 2019-06-14 15:53:20,520 [1    ] Abp.Modules.AbpModuleManager             - Found 15 ABP modules in total.
+DEBUG 2019-06-14 15:53:20,550 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: YarnViewer.Web.Startup.YarnViewerWebMvcModule, YarnViewer.Web.Mvc, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-06-14 15:53:20,553 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: YarnViewer.YarnViewerWebCoreModule, YarnViewer.Web.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-06-14 15:53:20,554 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: YarnViewer.YarnViewerApplicationModule, YarnViewer.Application, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-06-14 15:53:20,554 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: YarnViewer.YarnViewerCoreModule, YarnViewer.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-06-14 15:53:20,555 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCoreModule, Abp.ZeroCore, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-06-14 15:53:20,555 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.AbpZeroCommonModule, Abp.Zero.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-06-14 15:53:20,555 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AbpKernelModule, Abp, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-06-14 15:53:20,556 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AutoMapper.AbpAutoMapperModule, Abp.AutoMapper, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-06-14 15:53:20,556 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: YarnViewer.EntityFrameworkCore.YarnViewerEntityFrameworkModule, YarnViewer.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-06-14 15:53:20,557 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Zero.EntityFrameworkCore.AbpZeroCoreEntityFrameworkCoreModule, Abp.ZeroCore.EntityFrameworkCore, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-06-14 15:53:20,557 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFrameworkCore.AbpEntityFrameworkCoreModule, Abp.EntityFrameworkCore, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-06-14 15:53:20,557 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.EntityFramework.AbpEntityFrameworkCommonModule, Abp.EntityFramework.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-06-14 15:53:20,558 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.AbpAspNetCoreModule, Abp.AspNetCore, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-06-14 15:53:20,558 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.Web.AbpWebCommonModule, Abp.Web.Common, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-06-14 15:53:20,558 [1    ] Abp.Modules.AbpModuleManager             - Loaded module: Abp.AspNetCore.SignalR.AbpAspNetCoreSignalRModule, Abp.AspNetCore.SignalR, Version=4.3.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-06-14 15:53:20,562 [1    ] Abp.Modules.AbpModuleManager             - 15 modules loaded.
+DEBUG 2019-06-14 15:53:20,675 [1    ] o.Configuration.LanguageManagementConfig - Converted Abp (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-06-14 15:53:20,675 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpZero (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-06-14 15:53:20,675 [1    ] o.Configuration.LanguageManagementConfig - Converted YarnViewer (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-06-14 15:53:20,675 [1    ] o.Configuration.LanguageManagementConfig - Converted AbpWeb (Abp.Localization.Dictionaries.DictionaryBasedLocalizationSource) to MultiTenantLocalizationSource
+DEBUG 2019-06-14 15:53:21,234 [1    ] ameworkCore.AbpEntityFrameworkCoreModule - Registering DbContext: YarnViewer.EntityFrameworkCore.YarnViewerDbContext, YarnViewer.EntityFrameworkCore, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
+DEBUG 2019-06-14 15:53:22,701 [1    ] Abp.Localization.LocalizationManager     - Initializing 4 localization sources.
+DEBUG 2019-06-14 15:53:22,748 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: Abp
+DEBUG 2019-06-14 15:53:22,762 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpZero
+DEBUG 2019-06-14 15:53:22,770 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: YarnViewer
+DEBUG 2019-06-14 15:53:22,778 [1    ] Abp.Localization.LocalizationManager     - Initialized localization source: AbpWeb
+DEBUG 2019-06-14 15:53:23,038 [1    ] Abp.BackgroundJobs.BackgroundJobManager  - Start background worker: Abp.BackgroundJobs.BackgroundJobManager
+DEBUG 2019-06-14 15:53:23,109 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - Found 12 classes define auto mapping attributes
+DEBUG 2019-06-14 15:53:23,109 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - YarnViewer.Models.TokenAuth.ExternalLoginProviderInfoModel
+DEBUG 2019-06-14 15:53:23,119 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - YarnViewer.Users.Dto.CreateUserDto
+DEBUG 2019-06-14 15:53:23,119 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - YarnViewer.Users.Dto.UserDto
+DEBUG 2019-06-14 15:53:23,120 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - YarnViewer.Sessions.Dto.TenantLoginInfoDto
+DEBUG 2019-06-14 15:53:23,120 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - YarnViewer.Sessions.Dto.UserLoginInfoDto
+DEBUG 2019-06-14 15:53:23,120 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - YarnViewer.Roles.Dto.CreateRoleDto
+DEBUG 2019-06-14 15:53:23,120 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - YarnViewer.Roles.Dto.PermissionDto
+DEBUG 2019-06-14 15:53:23,120 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - YarnViewer.Roles.Dto.RoleDto
+DEBUG 2019-06-14 15:53:23,121 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - YarnViewer.MultiTenancy.Dto.CreateTenantDto
+DEBUG 2019-06-14 15:53:23,121 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - YarnViewer.MultiTenancy.Dto.TenantDto
+DEBUG 2019-06-14 15:53:23,121 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - YarnViewer.Web.Views.Shared.Components.TenantChange.TenantChangeViewModel
+DEBUG 2019-06-14 15:53:23,122 [1    ] Abp.AutoMapper.AbpAutoMapperModule       - YarnViewer.Web.Models.Roles.EditRoleModalViewModel

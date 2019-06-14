@@ -274,5 +274,6 @@ __pycache__/
 
 # additional ignore rules
 App_Data/
+Properties/
 
 # End of https://www.gitignore.io/api/aspnetcore

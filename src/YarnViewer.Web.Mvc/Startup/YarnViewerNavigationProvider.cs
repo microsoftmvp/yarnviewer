@@ -15,7 +15,7 @@ namespace YarnViewer.Web.Startup
                 .AddItem(
                     new MenuItemDefinition(
                         PageNames.Home,
-                        L("HomePage"),
+                        L("Dashboard"),
                         url: "",
                         icon: "home",
                         requiresAuthentication: true

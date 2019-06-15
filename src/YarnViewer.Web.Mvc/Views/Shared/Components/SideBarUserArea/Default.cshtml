@@ -9,12 +9,13 @@
         <div class="info-container">
             <div class="name" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">@Model.LoginInformations.User.Name  @Model.LoginInformations.User.Surname</div>
             <div class="email">@Model.LoginInformations.User.EmailAddress</div>
-            <div class="btn-group user-helper-dropdown">
+            <div class="pull-right"><a href="@Url.Action("Logout", "Account", new { area= string.Empty })">@L("Logout")</a></div>
+            @*<div class="btn-group user-helper-dropdown">
                 <i class="material-icons" data-toggle="dropdown" aria-haspopup="true" aria-expanded="true">keyboard_arrow_down</i>
                 <ul class="dropdown-menu pull-right">
                     <li><a href="@Url.Action("Logout", "Account", new { area= string.Empty })"><i class="material-icons">input</i>@L("Logout")</a></li>
                 </ul>
-            </div>
+            </div>*@
         </div>
     </div>
 }

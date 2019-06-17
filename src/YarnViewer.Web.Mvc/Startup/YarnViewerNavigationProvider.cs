@@ -36,16 +36,15 @@ namespace YarnViewer.Web.Startup
                 //        icon: "people",
                 //        requiredPermissionName: PermissionNames.Pages_Users
                 //    )
+                //).AddItem(
+                //    new MenuItemDefinition(
+                //        PageNames.Roles,
+                //        L("Roles"),
+                //        url: "Roles",
+                //        icon: "local_offer",
+                //        requiredPermissionName: PermissionNames.Pages_Roles
+                //    )
                 ).AddItem(
-                    new MenuItemDefinition(
-                        PageNames.Roles,
-                        L("Roles"),
-                        url: "Roles",
-                        icon: "local_offer",
-                        requiredPermissionName: PermissionNames.Pages_Roles
-                    )
-                )
-                .AddItem(
                     new MenuItemDefinition(
                         PageNames.About,
                         L("About"),

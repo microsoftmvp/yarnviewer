@@ -28,14 +28,14 @@ namespace YarnViewer.Web.Startup
                         icon: "business",
                         requiredPermissionName: PermissionNames.Pages_Tenants
                     )
-                ).AddItem(
-                    new MenuItemDefinition(
-                        PageNames.Users,
-                        L("Users"),
-                        url: "Users",
-                        icon: "people",
-                        requiredPermissionName: PermissionNames.Pages_Users
-                    )
+                //).AddItem(
+                //    new MenuItemDefinition(
+                //        PageNames.Users,
+                //        L("Users"),
+                //        url: "Users",
+                //        icon: "people",
+                //        requiredPermissionName: PermissionNames.Pages_Users
+                //    )
                 ).AddItem(
                     new MenuItemDefinition(
                         PageNames.Roles,
